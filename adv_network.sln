@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adv_network", "adv_network\adv_network.csproj", "{8A89DC94-6146-498D-85A0-68E001458F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{100F6116-3090-4217-8E70-B3707D94C2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A89DC94-6146-498D-85A0-68E001458F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A89DC94-6146-498D-85A0-68E001458F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A89DC94-6146-498D-85A0-68E001458F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A89DC94-6146-498D-85A0-68E001458F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100F6116-3090-4217-8E70-B3707D94C2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100F6116-3090-4217-8E70-B3707D94C2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100F6116-3090-4217-8E70-B3707D94C2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100F6116-3090-4217-8E70-B3707D94C2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
